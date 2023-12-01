@@ -21,7 +21,7 @@ function App() {
       <RentingProcess />
       <CarsForRental />
       <Testimonials />
-      {/* <Pricing /> */}
+      <Pricing />
       {/* <Services /> */}
       {/* <FAQ /> */}
       {/* <Posts /> */}
