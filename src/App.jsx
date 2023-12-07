@@ -22,7 +22,7 @@ function App() {
       <CarsForRental />
       <Testimonials />
       <Pricing />
-      {/* <Services /> */}
+      <Services />
       {/* <FAQ /> */}
       {/* <Posts /> */}
       {/* <Contact /> */}
