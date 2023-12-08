@@ -23,10 +23,10 @@ function App() {
       <Testimonials />
       <Pricing />
       <Services />
-      {/* <FAQ /> */}
-      {/* <Posts /> */}
-      {/* <Contact /> */}
-      {/* <Footer /> */}
+      <FAQ />
+      <Posts />
+      <Contact />
+      <Footer />
     </>
   );
 }
